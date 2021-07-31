@@ -1,5 +1,5 @@
 ### Hi there 👋
-⚡ Fun fact: Bungee Gum has the properties of both rubber and gum.
+🌱 I’m currently learning Python.
 <!--
 **jasandgun/jasandgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
