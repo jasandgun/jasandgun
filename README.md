@@ -1,5 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning Python.
+🌱 I’m currently learning web development.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasandgun&hide_border=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jasandgun/jasandgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
