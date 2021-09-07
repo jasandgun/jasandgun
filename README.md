@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning web development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasandgun&hide_border=true&theme=github_dark&layout=compact)](https://github-readme-stats-sandy-two.vercel.app/)
+[![Top Langs](https://github-readme-stats-sandy-two.vercel.app/api/top-langs/?username=jasandgun&hide_border=true&theme=github_dark&layout=compact)](https://github-readme-stats-sandy-two.vercel.app/)
 <!--
 **jasandgun/jasandgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
